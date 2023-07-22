@@ -1,7 +1,7 @@
 ---
 namespace: staging
 images:
-  - name: aputra/nginx
+  - name: saad946/nginx-private
     newTag: v0.1.0
 resources:
   - ../../my-app-kustomize
